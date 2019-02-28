@@ -6,3 +6,11 @@
    * Mobile phone number : +375 (29) 745-77-35 (MTS)
    * Github account: https://github.com/Odikee
    * Discord account: Lary#9071
+3. Summary:
+4. Skills:
+5. Code examples:
+6. Experience:
+7. Education : Online self education: 
+   * htmlacademy - html  and css courses
+   * codeacademy - html  and css courses
+8. English level: Basic from school

@@ -9,6 +9,9 @@
    * Discord account: Lary#9071
 3. Summary:
 4. Skills:
+   * HTML/HTML5
+   * CSS/CSS3
+   * Javascript(Novice)
 5. Code examples:
 6. Experience:
 7. Education: Online self education:

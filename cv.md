@@ -11,5 +11,7 @@
 4. Skills:
 5. Code examples:
 6. Experience:
-7. Education :
-8. English level:
+7. Education: Online self education:
+   * htmlacademy - html  and css courses
+   * codeacademy - html  and css courses
+8. English level: Basic from school

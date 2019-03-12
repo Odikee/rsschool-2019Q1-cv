@@ -34,14 +34,20 @@ a {
     color: black;
 }
 .name,
-.contacts
-{
+.contacts,
+.education,
+.summary,
+.skill,
+.english{
     padding:1.5em;
 }
 
 .name h1,
-.contacts h2
- {
+.contacts h2,
+.education h2,
+.summary h2,
+.skill h2,
+.english h2 {
     font-size: 1.4em;
     background-color:black;
     color:white;
@@ -53,3 +59,4 @@ ul>li {
     list-style-type: circle;
  }
  
+

@@ -1,0 +1,60 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color:aquamarine;
+    text-align: justify;
+}
+ .pagewrap {
+    min-width: 1020px;
+    max-width: 1020px;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: Verdana, Geneva, sans-serif;
+    background-color: bisque;
+    line-height: 1.5;
+}
+
+.header {
+    background-color:rgb(63, 56, 56);
+}
+
+.hgroup {
+    display: block;
+    padding: 12px 20px;
+    color: white;
+}
+
+.cat {
+    float: right;
+    overflow: auto;
+}
+
+a {
+    color: black;
+}
+.name,
+.contacts,
+.education,
+.summary,
+.skill,
+.english{
+    padding:1.5em;
+}
+
+.name h1,
+.contacts h2,
+.education h2,
+.summary h2,
+.skill h2,
+.english h2 {
+    font-size: 1.4em;
+    background-color:black;
+    color:white;
+}
+
+ul>li {
+    margin-left: 18px;
+    margin-top:5px;
+    list-style-type: circle;
+ }

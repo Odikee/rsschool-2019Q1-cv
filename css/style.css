@@ -1,23 +1,21 @@
 * {
     box-sizing: border-box;
 }
-
+body {
+    background-color:aquamarine;
+    text-align: justify;
+}
  .pagewrap {
     min-width: 1020px;
     max-width: 1020px;
     margin-right: auto;
     margin-left: auto;
     font-family: Verdana, Geneva, sans-serif;
-    font-size:18px;
+    background-color: bisque;
+    line-height: 1.5;
 }
 
 .header {
     background-color:rgb(63, 56, 56);
 }
 
-.hgroup {
-    display: block;
-    padding: 12px 20px;
-    color: white;
-    line-height: 1.5;
-}

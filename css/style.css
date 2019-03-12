@@ -19,3 +19,37 @@ body {
     background-color:rgb(63, 56, 56);
 }
 
+.hgroup {
+    display: block;
+    padding: 12px 20px;
+    color: white;
+}
+
+.cat {
+    float: right;
+    overflow: auto;
+}
+
+a {
+    color: black;
+}
+.name,
+.contacts
+{
+    padding:1.5em;
+}
+
+.name h1,
+.contacts h2
+ {
+    font-size: 1.4em;
+    background-color:black;
+    color:white;
+}
+
+ul>li {
+    margin-left: 18px;
+    margin-top:5px;
+    list-style-type: circle;
+ }
+ 

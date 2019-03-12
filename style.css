@@ -26,8 +26,14 @@ body {
 }
 
 .cat {
+    position: relative;
+    top: 52px;
+    right: 45px;
     float: right;
     overflow: auto;
+    border-radius: 57%;
+    width: 350px;
+    height: 251px;
 }
 
 a {
@@ -41,20 +47,29 @@ a {
 .english{
     padding:1.5em;
 }
+.name h1 {
+    font-size:1.5em;
+    color:white;
+    background-color:black;  
+}
 
-.name h1,
 .contacts h2,
 .education h2,
 .summary h2,
 .skill h2,
 .english h2 {
-    font-size: 1.4em;
-    background-color:black;
-    color:white;
+    display: inline-block;
+    padding: 10px;
+    font-size: 1.5em;
+    background-color: black;
+    color: white;
 }
 
 ul>li {
-    margin-left: 18px;
-    margin-top:5px;
+    margin-left: 20px;
     list-style-type: circle;
- }
+    padding: 10px;
+}
+
+
+ 
